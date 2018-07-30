@@ -14,7 +14,7 @@ application/json
 BODY
 {
 	"title": "Perspiciatis veritatis officiis voluptates.",
-    "body": "Quasi non ullam temporibus explicabo quia. Qui enim mollitia in non quasi eos quas. Facere dolores placeat aut sapiente vel nihil. Adipisci ipsam et blanditiis. Et laborum numquam magnam rerum."
+	"body": "Quasi non ullam temporibus explicabo quia. Qui enim mollitia in non quasi eos quas. Facere dolores placeat aut sapiente vel nihil. Adipisci ipsam et blanditiis. Et laborum numquam magnam rerum."
 }
 
 
@@ -28,7 +28,7 @@ curl --request DELETE \
   --header 'Content-Type: application/json' \
   --data '{
 	"title": "Perspiciatis veritatis officiis voluptates.",
-    "body": "Quasi non ullam temporibus explicabo quia. Qui enim mollitia in non quasi eos quas. Facere dolores placeat aut sapiente vel nihil. Adipisci ipsam et blanditiis. Et laborum numquam magnam rerum."
+    	"body": "Quasi non ullam temporibus explicabo quia. Qui enim mollitia in non quasi eos quas. Facere dolores placeat aut sapiente vel nihil. Adipisci ipsam et blanditiis. Et laborum numquam magnam rerum."
 }'
 
 GET Articles All

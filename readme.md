@@ -1,22 +1,6 @@
 Created by following a Tutorial by @bradtraversy on his youtube channel https://www.youtube.com/user/TechGuyWeb
 
 ArticlesX API
-Articles
-DELETE Article Delete
-http://articlesx.test/api/article/29
-Delete an article from the articles collection as specified by the article id
-HEADERS
-Accept
-application/json
-Content-Type
-application/json
-
-BODY
-{
-	"title": "Perspiciatis veritatis officiis voluptates.",
-	"body": "Quasi non ullam temporibus explicabo quia. Qui enim mollitia in non quasi eos quas. Facere dolores placeat aut sapiente vel nihil. Adipisci ipsam et blanditiis. Et laborum numquam magnam rerum."
-}
-
 
 Example Request
 
